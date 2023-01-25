@@ -4,13 +4,16 @@
 }
 
 .paragraph.cool {
-    font-size: 36px;
+    font-size: 24px;
 }
 
 #num2 {
-
+    color: #4377FD;
+    font-size: 36px;
 }
 
 #num4 {
-
+    background-color: #A5F882;
+    font-size: 24px;
+    font-weight: 700;
 }
